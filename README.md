@@ -11,7 +11,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer
 
-- :telescope: I’m currently expanding my skills in React.
+- :telescope: I’m currently expanding my skills in Typescript.
 
 - :zap: In my free time, I dedicate myself to studying additional programming languages through Udemy courses.
 
